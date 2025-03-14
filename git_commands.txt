@@ -27,5 +27,7 @@ git push -u origin main
 git reomte remove origin >> remove the branch
 
 
+git pull is mix of git fetch and git merge and will update your work directory with what is in the github reporsitory.
+
 
 
