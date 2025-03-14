@@ -10,11 +10,21 @@ git status
 
 git commit -m "write comment here!"
 
-git log
+git log  q to quit the log
 
 
+git remote -v >> to view the remote branch if exists
+
+git remote add origin https://github.com/Damavand-DevHub/test-repo.git
+
+git remote add origin https://personaltocken@github.com/Damavand-DevHub/test-repo.git  >> if you need to add your personaltocken
 
 
+git branch -M main
+git push -u origin main
+
+
+git reomte remove origin >> remove the branch
 
 
 
